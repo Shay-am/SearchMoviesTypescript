@@ -4,7 +4,11 @@
 
 ### Stack
 
+Typescript
+
 React
+
+TanstackQuery
 
 Styled Components
 
